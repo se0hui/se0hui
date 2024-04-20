@@ -21,7 +21,6 @@ One of Walt Disney's famous quotes, "If you can dream it, you can do it," is a m
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/se0.h.u1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="se0.h.u1_" height="30" width="40" /></a>
-<a href="https://discord.com/channel/se0hu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="se0hu1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
