@@ -36,8 +36,3 @@ I believe that people see the world as they think. If I continue to think about 
   </a>
 </p>
 
------
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=se0hui&show_icons=true&locale=en" alt="se0hui" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=se0hui&" alt="se0hui" /></p><br>
