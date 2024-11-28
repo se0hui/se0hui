@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=se0hui&label=Profile%20views&color=0e75b6&style=flat" alt="se0hui" /> </p>
 
-저는 광주소프트웨어마이스터고등학교 1학년으로 재학중인 이서희 입니다. 제가 좋아하는 분야를 공부하고 싶어 인문계가 아닌 이 학교로 오게 되었습니다. 저는 궁금하고 흥미를 가지면 끝까지 파고드는 성격이기에 흥미만 생긴다면 못 이뤄낼 것은 없습니다.
+저는 광주소프트웨어마이스터고등학교 1학년으로 재학중인 이서희 입니다.
 
 음악은 제 삶의 원동력입니다. 특히 노래를 부르는 것을 좋아하며, 홈 레코딩에도 관심이 있습니다. 노래를 부르는 것은 제게 자유를 주는 유일한 요소입니다.
 
@@ -12,7 +12,7 @@
 
 ----
 
-My name is Lee Seohui, and I am a first-year student at Gwangju Software Meister High School. I chose this school instead of a general high school because I wanted to study subjects I truly enjoy. I am the type of person who digs deep into things I find interesting or curious about, so I believe there is nothing I can't achieve as long as I am passionate about it.
+My name is Lee Seohui, and I am a first-year student at Gwangju Software Meister High School. 
 
 Music is the driving force of my life. I especially love singing and am also interested in home recording. Singing gives me a sense of freedom that nothing else can.
 
