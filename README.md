@@ -26,6 +26,10 @@ I believe that people see the world as they think. If I continue to think about 
 <p align="left">
 <a href="https://instagram.com/se0.h.u1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="se0.h.u1_" height="30" width="40" /></a>
 </p>
+<p align="left">
+  📧 Email: <a href="mailto:leesh6541@gmail.com">leesh6541@gmail.com</a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
