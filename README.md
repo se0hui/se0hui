@@ -19,6 +19,7 @@ Music is the driving force of my life. I especially love singing and am also int
 One of my favorite quotes is by Walt Disney: "If you can dream it, you can do it." This quote stays deep in my heart because it always gives me courage in any situation. I not only dream of my successful future but also imagine myself solving small problems in the near future. I believe that people who dream big are the ones who succeed. For me, success is happiness. That is why success feels like something close to me.
 
 I believe that people see the world as they think. If I continue to think about happiness with positive emotions, my perspective on the world will also change positively.
+
 ------
 
 <h3 align="left">Connect with me:</h3>
